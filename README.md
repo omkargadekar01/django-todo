@@ -22,28 +22,6 @@ A sleek and minimal To-Do List web application built with **Django**. This proje
 - **Frontend**: HTML5, CSS3
 - **Database**: SQLite (default Django DB)
 
-## 🗂️ Project Structure
-
-todoproject/
-├── todo/
-│ ├── migrations/
-│ ├── static/
-│ ├── templates/
-│ │ └── todo/
-│ │ └── index.html
-│ ├── admin.py
-│ ├── models.py
-│ ├── views.py
-│ ├── urls.py
-│ └── ...
-├── todoproject/
-│ ├── settings.py
-│ ├── urls.py
-│ └── ...
-├── db.sqlite3
-├── manage.py
-└── README.md
-
 ## ⚙️ How to Run
 
 1. **Clone the repository**
